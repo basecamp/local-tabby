@@ -22,3 +22,7 @@ You can test it by running this command:
 ```bash
 mods -f "Tell me about the company 37signals."
 ```
+
+## Purpose
+
+This repo primarily exists because homebrew requires a URL.
